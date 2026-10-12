@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pth
+data/
+# Bản gốc từ Colab (có log giải nén rất dài) - đã có bản sạch
+Bản_sao_của_*.ipynb
